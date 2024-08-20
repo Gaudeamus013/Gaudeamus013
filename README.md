@@ -57,7 +57,7 @@
 ## 🤝 Connect with me
 
 <p align="center">
-  <a href="https://bit.ly/Rey-In/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/reynaldo-javier/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
 </p>
